@@ -1,0 +1,33 @@
+[2022-10-30 15:36:12,491] [INFO] Requesting for post #1/8, post_id = 1226
+[2022-10-30 15:36:12,491] [DEBUG] Starting new HTTPS connection (1): abc.mustspace.net:8082
+[2022-10-30 15:36:12,802] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=1226&userId=0 HTTP/1.1" 200 60
+[2022-10-30 15:36:12,803] [WARNING] Failed to request post #1226. ID saved to failed list.
+[2022-10-30 15:36:12,803] [INFO] Paused execution for  1.342s to limit request rate
+[2022-10-30 15:36:14,150] [INFO] Requesting for post #2/8, post_id = 1202
+[2022-10-30 15:36:14,395] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=1202&userId=0 HTTP/1.1" 200 60
+[2022-10-30 15:36:14,396] [WARNING] Failed to request post #1202. ID saved to failed list.
+[2022-10-30 15:36:14,396] [INFO] Paused execution for  1.025s to limit request rate
+[2022-10-30 15:36:15,426] [INFO] Requesting for post #3/8, post_id = 1164
+[2022-10-30 15:36:15,897] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=1164&userId=0 HTTP/1.1" 200 60
+[2022-10-30 15:36:15,899] [WARNING] Failed to request post #1164. ID saved to failed list.
+[2022-10-30 15:36:15,899] [INFO] Paused execution for  2.722s to limit request rate
+[2022-10-30 15:36:18,626] [INFO] Requesting for post #4/8, post_id = 1148
+[2022-10-30 15:36:18,663] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=1148&userId=0 HTTP/1.1" 200 48
+[2022-10-30 15:36:18,665] [WARNING] Failed to request post #1148. ID saved to failed list.
+[2022-10-30 15:36:18,665] [INFO] Paused execution for  2.192s to limit request rate
+[2022-10-30 15:36:20,863] [INFO] Requesting for post #5/8, post_id = 1095
+[2022-10-30 15:36:21,734] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=1095&userId=0 HTTP/1.1" 200 60
+[2022-10-30 15:36:21,736] [WARNING] Failed to request post #1095. ID saved to failed list.
+[2022-10-30 15:36:21,737] [INFO] Paused execution for  2.372s to limit request rate
+[2022-10-30 15:36:24,109] [INFO] Requesting for post #6/8, post_id = 686
+[2022-10-30 15:36:25,396] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=686&userId=0 HTTP/1.1" 200 60
+[2022-10-30 15:36:25,397] [WARNING] Failed to request post #686. ID saved to failed list.
+[2022-10-30 15:36:25,397] [INFO] Paused execution for  1.995s to limit request rate
+[2022-10-30 15:36:27,393] [INFO] Requesting for post #7/8, post_id = 646
+[2022-10-30 15:36:29,207] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=646&userId=0 HTTP/1.1" 200 60
+[2022-10-30 15:36:29,208] [WARNING] Failed to request post #646. ID saved to failed list.
+[2022-10-30 15:36:29,208] [INFO] Paused execution for  2.765s to limit request rate
+[2022-10-30 15:36:31,978] [INFO] Requesting for post #8/8, post_id = 517
+[2022-10-30 15:36:32,335] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=517&userId=0 HTTP/1.1" 200 60
+[2022-10-30 15:36:32,337] [WARNING] Failed to request post #517. ID saved to failed list.
+[2022-10-30 15:36:32,337] [INFO] Paused execution for  2.241s to limit request rate

@@ -1,0 +1,170 @@
+[2022-10-30 14:53:37,894] [INFO] Requesting for post listing, page #10
+[2022-10-30 14:53:37,894] [DEBUG] Starting new HTTPS connection (1): abc.mustspace.net:8082
+[2022-10-30 14:53:39,438] [DEBUG] https://abc.mustspace.net:8082 "GET /getPostList?category_id=0&userId=0&page=10&size=20 HTTP/1.1" 200 None
+[2022-10-30 14:53:39,438] [INFO] 20 entries found!
+[2022-10-30 14:53:39,438] [INFO] Requesting for post #1/20, post_id = 47669
+[2022-10-30 14:53:39,616] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=47669&userId=0 HTTP/1.1" 200 None
+[2022-10-30 14:53:39,617] [INFO] Saved post #47669 raw content to ./data/posts/47669.json.
+[2022-10-30 14:53:39,617] [INFO] Paused execution for 1.933s to limit request rate
+[2022-10-30 14:53:41,555] [INFO] Requesting for post #2/20, post_id = 47668
+[2022-10-30 14:53:41,909] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=47668&userId=0 HTTP/1.1" 200 None
+[2022-10-30 14:53:41,912] [INFO] Saved post #47668 raw content to ./data/posts/47668.json.
+[2022-10-30 14:53:41,912] [INFO] Paused execution for 2.354s to limit request rate
+[2022-10-30 14:53:44,269] [INFO] Requesting for post #3/20, post_id = 47667
+[2022-10-30 14:53:44,659] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=47667&userId=0 HTTP/1.1" 200 None
+[2022-10-30 14:53:44,659] [INFO] Saved post #47667 raw content to ./data/posts/47667.json.
+[2022-10-30 14:53:44,659] [INFO] Paused execution for 2.516s to limit request rate
+[2022-10-30 14:53:47,180] [INFO] Requesting for post #4/20, post_id = 47665
+[2022-10-30 14:53:48,007] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=47665&userId=0 HTTP/1.1" 200 None
+[2022-10-30 14:53:48,009] [INFO] Saved post #47665 raw content to ./data/posts/47665.json.
+[2022-10-30 14:53:48,009] [INFO] Paused execution for 2.073s to limit request rate
+[2022-10-30 14:53:50,083] [INFO] Requesting for post #5/20, post_id = 47664
+[2022-10-30 14:53:50,948] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=47664&userId=0 HTTP/1.1" 200 None
+[2022-10-30 14:53:50,949] [INFO] Saved post #47664 raw content to ./data/posts/47664.json.
+[2022-10-30 14:53:50,949] [INFO] Paused execution for 1.343s to limit request rate
+[2022-10-30 14:53:52,298] [INFO] Requesting for post #6/20, post_id = 47663
+[2022-10-30 14:53:53,297] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=47663&userId=0 HTTP/1.1" 200 None
+[2022-10-30 14:53:53,299] [INFO] Saved post #47663 raw content to ./data/posts/47663.json.
+[2022-10-30 14:53:53,299] [INFO] Paused execution for 1.335s to limit request rate
+[2022-10-30 14:53:54,637] [INFO] Requesting for post #7/20, post_id = 47662
+[2022-10-30 14:53:55,669] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=47662&userId=0 HTTP/1.1" 200 None
+[2022-10-30 14:53:55,674] [INFO] Saved post #47662 raw content to ./data/posts/47662.json.
+[2022-10-30 14:53:55,674] [INFO] Paused execution for 2.596s to limit request rate
+[2022-10-30 14:53:58,275] [INFO] Requesting for post #8/20, post_id = 47661
+[2022-10-30 14:53:58,683] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=47661&userId=0 HTTP/1.1" 200 None
+[2022-10-30 14:53:58,685] [INFO] Saved post #47661 raw content to ./data/posts/47661.json.
+[2022-10-30 14:53:58,685] [INFO] Paused execution for 1.021s to limit request rate
+[2022-10-30 14:53:59,711] [INFO] Requesting for post #9/20, post_id = 47660
+[2022-10-30 14:54:00,447] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=47660&userId=0 HTTP/1.1" 200 None
+[2022-10-30 14:54:00,449] [INFO] Saved post #47660 raw content to ./data/posts/47660.json.
+[2022-10-30 14:54:00,449] [INFO] Paused execution for 1.09s to limit request rate
+[2022-10-30 14:54:01,544] [INFO] Requesting for post #10/20, post_id = 47659
+[2022-10-30 14:54:02,266] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=47659&userId=0 HTTP/1.1" 200 None
+[2022-10-30 14:54:02,268] [INFO] Saved post #47659 raw content to ./data/posts/47659.json.
+[2022-10-30 14:54:02,268] [INFO] Paused execution for 1.082s to limit request rate
+[2022-10-30 14:54:03,355] [INFO] Requesting for post #11/20, post_id = 47658
+[2022-10-30 14:54:03,793] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=47658&userId=0 HTTP/1.1" 200 None
+[2022-10-30 14:54:03,795] [INFO] Saved post #47658 raw content to ./data/posts/47658.json.
+[2022-10-30 14:54:03,795] [INFO] Paused execution for 2.666s to limit request rate
+[2022-10-30 14:54:06,465] [INFO] Requesting for post #12/20, post_id = 47657
+[2022-10-30 14:54:06,855] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=47657&userId=0 HTTP/1.1" 200 None
+[2022-10-30 14:54:06,859] [INFO] Saved post #47657 raw content to ./data/posts/47657.json.
+[2022-10-30 14:54:06,859] [INFO] Paused execution for 1.519s to limit request rate
+[2022-10-30 14:54:08,379] [INFO] Requesting for post #13/20, post_id = 47656
+[2022-10-30 14:54:08,775] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=47656&userId=0 HTTP/1.1" 200 None
+[2022-10-30 14:54:08,779] [INFO] Saved post #47656 raw content to ./data/posts/47656.json.
+[2022-10-30 14:54:08,780] [INFO] Paused execution for 2.985s to limit request rate
+[2022-10-30 14:54:11,768] [INFO] Requesting for post #14/20, post_id = 47655
+[2022-10-30 14:54:12,166] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=47655&userId=0 HTTP/1.1" 200 None
+[2022-10-30 14:54:12,169] [INFO] Saved post #47655 raw content to ./data/posts/47655.json.
+[2022-10-30 14:54:12,169] [INFO] Paused execution for 2.044s to limit request rate
+[2022-10-30 14:54:14,219] [INFO] Requesting for post #15/20, post_id = 47654
+[2022-10-30 14:54:14,743] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=47654&userId=0 HTTP/1.1" 200 None
+[2022-10-30 14:54:14,746] [INFO] Saved post #47654 raw content to ./data/posts/47654.json.
+[2022-10-30 14:54:14,746] [INFO] Paused execution for 2.502s to limit request rate
+[2022-10-30 14:54:17,249] [INFO] Requesting for post #16/20, post_id = 47653
+[2022-10-30 14:54:17,558] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=47653&userId=0 HTTP/1.1" 200 None
+[2022-10-30 14:54:17,560] [INFO] Saved post #47653 raw content to ./data/posts/47653.json.
+[2022-10-30 14:54:17,561] [INFO] Paused execution for 2.676s to limit request rate
+[2022-10-30 14:54:20,242] [INFO] Requesting for post #17/20, post_id = 47652
+[2022-10-30 14:54:20,739] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=47652&userId=0 HTTP/1.1" 200 None
+[2022-10-30 14:54:20,742] [INFO] Saved post #47652 raw content to ./data/posts/47652.json.
+[2022-10-30 14:54:20,742] [INFO] Paused execution for 2.923s to limit request rate
+[2022-10-30 14:54:23,667] [INFO] Requesting for post #18/20, post_id = 47650
+[2022-10-30 14:54:24,916] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=47650&userId=0 HTTP/1.1" 200 None
+[2022-10-30 14:54:24,918] [INFO] Saved post #47650 raw content to ./data/posts/47650.json.
+[2022-10-30 14:54:24,919] [INFO] Paused execution for 2.788s to limit request rate
+[2022-10-30 14:54:27,708] [INFO] Requesting for post #19/20, post_id = 47648
+[2022-10-30 14:54:28,212] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=47648&userId=0 HTTP/1.1" 200 None
+[2022-10-30 14:54:28,214] [INFO] Saved post #47648 raw content to ./data/posts/47648.json.
+[2022-10-30 14:54:28,214] [INFO] Paused execution for 2.027s to limit request rate
+[2022-10-30 14:54:30,245] [INFO] Requesting for post #20/20, post_id = 47647
+[2022-10-30 14:54:30,879] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=47647&userId=0 HTTP/1.1" 200 None
+[2022-10-30 14:54:30,885] [INFO] Saved post #47647 raw content to ./data/posts/47647.json.
+[2022-10-30 14:54:30,885] [INFO] Paused execution for 2.374s to limit request rate
+[2022-10-30 14:54:33,262] [INFO] Requesting for post listing, page #11
+[2022-10-30 14:54:33,452] [DEBUG] https://abc.mustspace.net:8082 "GET /getPostList?category_id=0&userId=0&page=11&size=20 HTTP/1.1" 200 None
+[2022-10-30 14:54:33,453] [INFO] 20 entries found!
+[2022-10-30 14:54:33,454] [INFO] Requesting for post #1/20, post_id = 47647
+[2022-10-30 14:54:33,680] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=47647&userId=0 HTTP/1.1" 200 None
+[2022-10-30 14:54:33,684] [INFO] Saved post #47647 raw content to ./data/posts/47647.json.
+[2022-10-30 14:54:33,684] [INFO] Paused execution for 2.504s to limit request rate
+[2022-10-30 14:54:36,189] [INFO] Requesting for post #2/20, post_id = 47646
+[2022-10-30 14:54:36,566] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=47646&userId=0 HTTP/1.1" 200 None
+[2022-10-30 14:54:36,567] [INFO] Saved post #47646 raw content to ./data/posts/47646.json.
+[2022-10-30 14:54:36,567] [INFO] Paused execution for 2.693s to limit request rate
+[2022-10-30 14:54:39,265] [INFO] Requesting for post #3/20, post_id = 47645
+[2022-10-30 14:54:41,002] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=47645&userId=0 HTTP/1.1" 200 None
+[2022-10-30 14:54:41,005] [INFO] Saved post #47645 raw content to ./data/posts/47645.json.
+[2022-10-30 14:54:41,005] [INFO] Paused execution for 1.424s to limit request rate
+[2022-10-30 14:54:42,434] [INFO] Requesting for post #4/20, post_id = 47644
+[2022-10-30 14:54:42,725] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=47644&userId=0 HTTP/1.1" 200 None
+[2022-10-30 14:54:42,727] [INFO] Saved post #47644 raw content to ./data/posts/47644.json.
+[2022-10-30 14:54:42,727] [INFO] Paused execution for 1.001s to limit request rate
+[2022-10-30 14:54:43,733] [INFO] Requesting for post #5/20, post_id = 47643
+[2022-10-30 14:54:44,051] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=47643&userId=0 HTTP/1.1" 200 None
+[2022-10-30 14:54:44,054] [INFO] Saved post #47643 raw content to ./data/posts/47643.json.
+[2022-10-30 14:54:44,054] [INFO] Paused execution for 2.695s to limit request rate
+[2022-10-30 14:54:46,754] [INFO] Requesting for post #6/20, post_id = 47642
+[2022-10-30 14:54:47,196] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=47642&userId=0 HTTP/1.1" 200 None
+[2022-10-30 14:54:47,199] [INFO] Saved post #47642 raw content to ./data/posts/47642.json.
+[2022-10-30 14:54:47,200] [INFO] Paused execution for 2.879s to limit request rate
+[2022-10-30 14:54:50,079] [INFO] Requesting for post #7/20, post_id = 47640
+[2022-10-30 14:54:50,854] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=47640&userId=0 HTTP/1.1" 200 None
+[2022-10-30 14:54:50,856] [INFO] Saved post #47640 raw content to ./data/posts/47640.json.
+[2022-10-30 14:54:50,856] [INFO] Paused execution for 1.539s to limit request rate
+[2022-10-30 14:54:52,399] [INFO] Requesting for post #8/20, post_id = 47639
+[2022-10-30 14:54:52,549] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=47639&userId=0 HTTP/1.1" 200 None
+[2022-10-30 14:54:52,551] [INFO] Saved post #47639 raw content to ./data/posts/47639.json.
+[2022-10-30 14:54:52,552] [INFO] Paused execution for 2.37s to limit request rate
+[2022-10-30 14:54:54,924] [INFO] Requesting for post #9/20, post_id = 47638
+[2022-10-30 14:54:55,375] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=47638&userId=0 HTTP/1.1" 200 None
+[2022-10-30 14:54:55,376] [INFO] Saved post #47638 raw content to ./data/posts/47638.json.
+[2022-10-30 14:54:55,377] [INFO] Paused execution for 2.207s to limit request rate
+[2022-10-30 14:54:57,589] [INFO] Requesting for post #10/20, post_id = 47637
+[2022-10-30 14:54:58,206] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=47637&userId=0 HTTP/1.1" 200 None
+[2022-10-30 14:54:58,209] [INFO] Saved post #47637 raw content to ./data/posts/47637.json.
+[2022-10-30 14:54:58,210] [INFO] Paused execution for 2.009s to limit request rate
+[2022-10-30 14:55:00,220] [INFO] Requesting for post #11/20, post_id = 47636
+[2022-10-30 14:55:01,305] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=47636&userId=0 HTTP/1.1" 200 None
+[2022-10-30 14:55:01,307] [INFO] Saved post #47636 raw content to ./data/posts/47636.json.
+[2022-10-30 14:55:01,307] [INFO] Paused execution for 2.495s to limit request rate
+[2022-10-30 14:55:03,808] [INFO] Requesting for post #12/20, post_id = 47635
+[2022-10-30 14:55:04,070] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=47635&userId=0 HTTP/1.1" 200 None
+[2022-10-30 14:55:04,073] [INFO] Saved post #47635 raw content to ./data/posts/47635.json.
+[2022-10-30 14:55:04,073] [INFO] Paused execution for 2.213s to limit request rate
+[2022-10-30 14:55:06,287] [INFO] Requesting for post #13/20, post_id = 47634
+[2022-10-30 14:55:06,609] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=47634&userId=0 HTTP/1.1" 200 None
+[2022-10-30 14:55:06,611] [INFO] Saved post #47634 raw content to ./data/posts/47634.json.
+[2022-10-30 14:55:06,611] [INFO] Paused execution for 2.606s to limit request rate
+[2022-10-30 14:55:09,217] [INFO] Requesting for post #14/20, post_id = 47632
+[2022-10-30 14:55:09,776] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=47632&userId=0 HTTP/1.1" 200 None
+[2022-10-30 14:55:09,777] [INFO] Saved post #47632 raw content to ./data/posts/47632.json.
+[2022-10-30 14:55:09,777] [INFO] Paused execution for 1.762s to limit request rate
+[2022-10-30 14:55:11,544] [INFO] Requesting for post #15/20, post_id = 47631
+[2022-10-30 14:55:11,841] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=47631&userId=0 HTTP/1.1" 200 None
+[2022-10-30 14:55:11,842] [INFO] Saved post #47631 raw content to ./data/posts/47631.json.
+[2022-10-30 14:55:11,842] [INFO] Paused execution for 2.956s to limit request rate
+[2022-10-30 14:55:14,803] [INFO] Requesting for post #16/20, post_id = 47630
+[2022-10-30 14:55:15,298] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=47630&userId=0 HTTP/1.1" 200 None
+[2022-10-30 14:55:15,299] [INFO] Saved post #47630 raw content to ./data/posts/47630.json.
+[2022-10-30 14:55:15,299] [INFO] Paused execution for 1.584s to limit request rate
+[2022-10-30 14:55:16,887] [INFO] Requesting for post #17/20, post_id = 47628
+[2022-10-30 14:55:17,103] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=47628&userId=0 HTTP/1.1" 200 None
+[2022-10-30 14:55:17,105] [INFO] Saved post #47628 raw content to ./data/posts/47628.json.
+[2022-10-30 14:55:17,105] [INFO] Paused execution for 1.085s to limit request rate
+[2022-10-30 14:55:18,195] [INFO] Requesting for post #18/20, post_id = 47627
+[2022-10-30 14:55:18,975] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=47627&userId=0 HTTP/1.1" 200 None
+[2022-10-30 14:55:18,976] [INFO] Saved post #47627 raw content to ./data/posts/47627.json.
+[2022-10-30 14:55:18,976] [INFO] Paused execution for 2.025s to limit request rate
+[2022-10-30 14:55:21,006] [INFO] Requesting for post #19/20, post_id = 47625
+[2022-10-30 14:55:22,507] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=47625&userId=0 HTTP/1.1" 200 None
+[2022-10-30 14:55:22,508] [INFO] Saved post #47625 raw content to ./data/posts/47625.json.
+[2022-10-30 14:55:22,508] [INFO] Paused execution for 2.296s to limit request rate
+[2022-10-30 14:55:24,808] [INFO] Requesting for post #20/20, post_id = 47624
+[2022-10-30 14:55:25,813] [DEBUG] https://abc.mustspace.net:8082 "GET /getNews?id=47624&userId=0 HTTP/1.1" 200 None
+[2022-10-30 14:55:25,815] [INFO] Saved post #47624 raw content to ./data/posts/47624.json.
+[2022-10-30 14:55:25,816] [INFO] Paused execution for 1.001s to limit request rate
+[2022-10-30 14:55:26,822] [INFO] Requesting for post listing, page #12
+[2022-10-30 14:55:27,424] [DEBUG] https://abc.mustspace.net:8082 "GET /getPostList?category_id=0&userId=0&page=12&size=20 HTTP/1.1" 200 None
+[2022-10-30 14:55:27,425] [INFO] Crawl page target reached. Exiting.
