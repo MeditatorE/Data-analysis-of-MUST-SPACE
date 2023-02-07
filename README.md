@@ -12,3 +12,5 @@ To see the code for the Training and Testing of Model, [**click here**](https://
 
 ## Tips
 If you need to run the code, you need to download word vectors. 
+please click [**https://pan.baidu.com/s/1ki5ROtJQjQszazq7vKvhDQ**](https://pan.baidu.com/s/1ki5ROtJQjQszazq7vKvhDQ).
+password: hs4r
