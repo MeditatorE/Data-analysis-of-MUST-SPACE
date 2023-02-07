@@ -1,0 +1,1 @@
+{"Positive": 0.29462782, "Neutral": 0.18086384, "Negative": 0.5245384, "Sentiment": "negative", "RequestId": "bcaa59e1-6169-4344-9aba-5e61e1a52cf3", "analyzed_content": "发现了一个论文的错误\n起床之后读了一下张益唐的论文，证明得很精彩，可惜还是犯了一个很初等的错误。\n问题出在文章的第79页，第14章，在估计 formula ll的Mean Value的时候。有些朋友可能还没来得及看论文，不过不影响理解思路，我简要概括一下前文。大概是为了对满足前文提到性质的一个复数序列的一个性质，在mod（\\beta）<alpha的时候，可以对Theta_2函数进行一个值的估计。"}

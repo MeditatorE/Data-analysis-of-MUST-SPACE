@@ -1,0 +1,1 @@
+{"Positive": 0.43473122, "Neutral": 0.32719612, "Negative": 0.2381026, "Sentiment": "positive", "RequestId": "e6f0a80d-fef8-42d8-afb6-c9acd3d054df", "analyzed_content": "关于总平均绩点的计算，无论你是先算每个学期各科的平均绩点再计算各个学期的平均绩点，还是直接算所有科目的平均绩点，得到的结果是一样的啊（）\n如果不一样，说明你在计算过程中进行了四舍五入，导致了偏差"}

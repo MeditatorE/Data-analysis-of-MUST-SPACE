@@ -1,0 +1,1 @@
+{"Positive": 0.11035012, "Neutral": 0.55765182, "Negative": 0.33202812, "Sentiment": "neutral", "RequestId": "cca609db-9edb-4cea-8deb-6cac7fb1dc00", "analyzed_content": "wemust 1.9.0版本已知的两个问题：\n1. 黑暗模式下字体不会自动反色，导致难以看清\n2. 原有手势密码失效，需要重新设置\n如果有更多bug，欢迎在此讨论"}
